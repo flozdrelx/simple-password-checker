@@ -22,5 +22,5 @@ chmod +x run.sh
 ```
 * Run the script:
 ```bash
-./scriptname.sh
+./run.sh
 ```
