@@ -1,6 +1,6 @@
 # Simple Password Checker
 
-#### For the portfolio
+#### Portfolio project
 
 A simple script that will check your password, give you a score, and based on that, give you suggestions and also perform a password entropy analysis.
 
